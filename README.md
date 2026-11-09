@@ -205,4 +205,4 @@ File tersimpan di `dist`. Folder ini tidak di-commit. Script packaging tidak men
 
 Dokumentasi daring diperiksa 27 Oktober 2026. Paket pembelajaran ini menargetkan Python 3.12; hasil eksekusi pada akun GitHub mahasiswa perlu dibuktikan melalui run masing-masing.
 
-Testing CI/CD pipeline - Minggu 9
+Testing CI/CD pipeline - Minggu 9 - Update
