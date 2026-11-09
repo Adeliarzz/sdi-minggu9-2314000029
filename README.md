@@ -204,3 +204,5 @@ File tersimpan di `dist`. Folder ini tidak di-commit. Script packaging tidak men
 - Python 3.12, subprocess: https://docs.python.org/3.12/library/subprocess.html
 
 Dokumentasi daring diperiksa 27 Oktober 2026. Paket pembelajaran ini menargetkan Python 3.12; hasil eksekusi pada akun GitHub mahasiswa perlu dibuktikan melalui run masing-masing.
+
+Testing CI/CD pipeline - Minggu 9
